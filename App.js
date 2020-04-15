@@ -10,3 +10,5 @@ function nuevaEnMaster(params) {
    */
 }
 function addedByFeature_C_brach() {}
+
+function newToGitHub(params) {}
