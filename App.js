@@ -9,3 +9,4 @@ function nuevaEnMaster(params) {
    * Una persona se metió a editar la master branch >:(
    */
 }
+function addedByFeature_C_brach() {}
